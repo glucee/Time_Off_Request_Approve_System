@@ -1,5 +1,5 @@
 # Time_Off_Request_Approve_System
-Request and approve time off Apps Script Enhancement for Google Form and Google Calender, based on the public [article](https://docs.google.com/document/d/1y6x90S_q_cwdl4LGVDDSqMyuikx1zmPFyVQfSlYsKLk/). I made some changes in both form and code to make it work.
+Request and approve time off, Holiday or Sick level with Apps Script Enhancement for Google Form and Google Calender, based on the public [article](https://docs.google.com/document/d/1y6x90S_q_cwdl4LGVDDSqMyuikx1zmPFyVQfSlYsKLk/). I made some changes in both form and code to make it work.
 
 This solution allows end users to submit vacation requests to be approved or denied by approving members. The approving members will receive an email that contains an Approve / Deny link. When the approver clicks Approve or Deny, the response is updated in the corresponding spreadsheet and an email is generated and sent to the requestor. If the request has been approved, the calendar event is automatically added both to a vacation calendar and to the requestor’s calendar.
 
